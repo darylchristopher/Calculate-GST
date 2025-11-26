@@ -1,5 +1,5 @@
 # Calculate GST
-To calculate GST amount for a product
+To calculate GST amount for a product using Turbo C
 
 # Algorithm
 1. Start
